@@ -1,7 +1,7 @@
 # Database Schema
 
-## 1. Tabel `users`
-Tabel ini menyimpan informasi pengguna seperti email, password, nomor telepon, KTP, saldo, dan waktu pembuatan/pembaruan data pengguna.
+## 
+Berikut Sample untuk mini project
 
 ```sql
 CREATE TABLE users (
